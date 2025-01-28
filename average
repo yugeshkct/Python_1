@@ -1,0 +1,11 @@
+'''mark1=float(input('enter the mark1'))
+mark2=float(input('enter the mark2'))
+mark3=float(input('enter the mark3'))
+total=mark1+mark2+mark3
+avg=total/3
+print(avg)'''
+if (5==5):
+    print("equal")
+    print("yugesh")
+
+print("done")
